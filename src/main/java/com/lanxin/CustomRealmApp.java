@@ -10,6 +10,7 @@ import org.apache.shiro.authz.AuthorizationException;
 import org.apache.shiro.mgt.DefaultSecurityManager;
 import org.apache.shiro.subject.Subject;
 //
+////
 //3.3验证 （自定义Realm）
 public class CustomRealmApp {
     private String ccc;
