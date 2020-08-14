@@ -12,9 +12,9 @@ import org.apache.shiro.subject.Subject;
 ////
 //3.3验证 （自定义Realm）
 public class CustomRealmApp {
-    private String cccc;
+    private String cc20;
     private String ddd;
-    private String aaaa;
+    private Integer uuu;
     private String zzzz;
     private String bbbbbbbbbbbb;
     private String aaaaaaa;
