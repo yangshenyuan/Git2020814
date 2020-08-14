@@ -13,11 +13,7 @@ import org.apache.shiro.subject.Subject;
 //3.3验证 （自定义Realm）
 public class CustomRealmApp {
     private String cccc;
-    private String ddd;
-    private String aaaa;
-    private String zzzz;
-    private String bbbbbbbbbbbb;
-    private String aaaaaaa;
+
     public static void main(String[] args) {
 
         CustomRealm customRealm=new CustomRealm();
