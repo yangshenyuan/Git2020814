@@ -15,6 +15,7 @@ public class CustomRealmApp {
     private String cccc;
     private String ddd;
     private String aaaa;
+    private String aaaaaaa;
     public static void main(String[] args) {
 
         CustomRealm customRealm=new CustomRealm();
