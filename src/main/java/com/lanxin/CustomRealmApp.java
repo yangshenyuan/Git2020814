@@ -10,7 +10,6 @@ import org.apache.shiro.authz.AuthorizationException;
 import org.apache.shiro.mgt.DefaultSecurityManager;
 import org.apache.shiro.subject.Subject;
 
-//这个可以删除
 //3.3验证 （自定义Realm）
 public class CustomRealmApp {
     private String aaa;
