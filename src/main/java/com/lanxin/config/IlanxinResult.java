@@ -33,4 +33,5 @@ public interface IlanxinResult {
     public static final String NOT_FUNCTION_MSG="没有操作权限";
 
 
+
 }
