@@ -14,6 +14,7 @@ import org.apache.shiro.subject.Subject;
 public class CustomRealmApp {
     private String bbb;
 
+    private String ccc;
     public static void main(String[] args) {
 
         CustomRealm customRealm=new CustomRealm();
