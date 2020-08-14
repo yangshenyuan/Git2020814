@@ -32,9 +32,6 @@ public interface IlanxinResult {
     public static final Integer NOT_FUNCTION=4006;
     public static final String NOT_FUNCTION_MSG="没有操作权限";
 
-    //没有操作权限
-    public static final Integer NOT=4006;
-    public static final String NOT2="没有操作权限";
 
 
 }
